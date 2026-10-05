@@ -1,0 +1,5 @@
+{
+  "rewrites": [
+    { "source": "/", "destination": "/hc/en-us/index.html" }
+  ]
+}
